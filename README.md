@@ -1,4 +1,3 @@
-Here’s a `README.md` file tailored for your Hugo-powered bilingual (Hindi and English) website focusing on farm blogs and solutions:
 
 ```markdown
 # FarmFrontiers
@@ -94,5 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thank you for visiting **FarmFrontiers**. We hope our platform proves valuable to you. For any queries or feedback, feel free to reach out!
 
 ```
-
-Make sure to replace `yourusername` with your actual GitHub username in the repository link.
